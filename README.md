@@ -1,2 +1,2 @@
-# Generador-Seguro-de-Contrasenas 
+# Generador-Seguro-de-Contraseñas 
 Lógica de Programación 
